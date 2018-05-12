@@ -1,0 +1,40 @@
+_repo: What-Peace-Means_15266
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Van Dyke, Henry
+    aliases:
+    - Dyke, Henry Jackson Van
+    - Dyke, Henry Van
+    - Dyke, Henry I. Van
+    birthdate: 1852
+    deathdate: 1933
+    gutenberg_agent_id: '362'
+    url: http://www.gutenberg.org/2009/agents/362
+    wikipedia: http://en.wikipedia.org/wiki/Henry_van_Dyke
+description: This little book contains three plain sermons which were preached in
+  New York in the Easter season of 1919, in the Park Avenue Presbyterian Church, of
+  which my son is minister. I had no thought that they would ever be printed. They
+  were, and are, just daily bread discourses meant to serve the spiritual needs of
+  a congregation of Christian people, seekers after truth, inquirers about duty, strangers
+  and pilgrims, in the great city and the troubled world. But if, as friends think,
+  these simple chapters may be of service through the printed page to a larger circle
+  of readers, I willingly and free.
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15266'
+  lccn: '19018729'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peace'
+- !lcc 'BX'
+title: What Peace Means
+url: http://www.gutenberg.org/ebooks/15266
